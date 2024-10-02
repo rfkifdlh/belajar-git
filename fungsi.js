@@ -9,3 +9,5 @@ console.log(multiplyNumber(2,2));
 
 const devide = (a, b) => a / b;
 console.log(devide(4,2));
+
+console.log(add(5, 5));
